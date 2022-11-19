@@ -15,4 +15,4 @@ made ghost pickaxe only work in dungeons (the thing that creates ghost blocks wh
 fixed powder macro not saving in config
 fixed some letters crashing
 made all rotations smoother (this might've caused some rotations to be too fast/slow, if you have any lmk and i'll fix)
-fixed neu names breaking jerry chine vertical
+fixed neu names breaking jerry chine vertical.
